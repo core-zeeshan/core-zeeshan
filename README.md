@@ -44,7 +44,7 @@ Git • GitHub • VS Code
 ### 📫 Connect With Me
 
 GitHub: https://github.com/core-zeeshan
-Linkedin: https://www.linkedin.com/in/zeeshan-anwar-527ba037b/
+
 
 ---
 
@@ -100,7 +100,7 @@ Linkedin: https://www.linkedin.com/in/zeeshan-anwar-527ba037b/
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/zeeshan-anwar-527ba037b/
 
 ---
 
