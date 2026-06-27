@@ -41,10 +41,6 @@ Git • GitHub • VS Code
 
 ---
 
-### 📫 Connect With Me
-
-GitHub: https://github.com/core-zeeshan
-
 
 ---
 
@@ -101,6 +97,7 @@ GitHub: https://github.com/core-zeeshan
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://www.linkedin.com/in/zeeshan-anwar-527ba037b/
+- Gmail: zeeshananwar.tech@gmail.com
 
 ---
 
